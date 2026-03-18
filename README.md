@@ -1,4 +1,4 @@
-# 🤖 Documentbase RAG Chatbot
+# 🤖 Productiongrade RAG Application using external PDF
 
 A production-grade **Retrieval-Augmented Generation (RAG)** chatbot that allows multiple users to upload PDFs and chat with their documents using AI. Built with **FastAPI**, **Streamlit**, **PostgreSQL**, **ChromaDB**, and the **Groq API**.
 
