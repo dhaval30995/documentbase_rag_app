@@ -1,0 +1,39 @@
+# FastAPI & Server
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-multipart==0.0.20
+
+# Database
+sqlalchemy[asyncio]==2.0.36
+asyncpg==0.30.0
+
+# Authentication
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+bcrypt==4.2.1
+
+# LangChain
+langchain==0.3.14
+langchain-community==0.3.14
+
+# Vector Store & Embeddings
+chromadb>=1.0.0
+sentence-transformers==3.3.1
+
+# LLM
+groq==0.13.1
+
+# PDF Processing
+PyPDF2==3.0.1
+
+# Environment
+python-dotenv==1.0.1
+pydantic-settings==2.7.1
+email-validator==2.2.0
+
+# Frontend
+streamlit==1.41.1
+requests==2.32.3
+
+# Logging
+loguru==0.7.3
